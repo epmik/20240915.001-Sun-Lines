@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "_libraries/**/*.jar",
+        "_libraries/processing-4.3/**/*.jar",
+        "c:\\Users\\Sabien Wyseur\\OneDrive\\Steven\\Sketches Processing\\_libraries\\processing-4.3/**/*.jar",
+        "D:\\Steven\\Atelier\\Sketches Processing\\_libraries\\processing-4.3/**/*.jar",
+        "D:/Steven/Atelier/Sketches Processing/_libraries/controlP5/library/controlP5.jar"
+    ]
+}
